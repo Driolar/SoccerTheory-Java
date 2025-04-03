@@ -1,6 +1,6 @@
 # SoccerTheory-Java
 DRIOLAR is a software application to visualize and verify the [Theory of Soccer](https://en.wikiversity.org/wiki/The_Theory_of_Soccer).
-It is written in Java and is partially [ported to Pharo](https://github.com/Driolar/SoccerTheory-Pharo) for further development, while this [Java code of DRIOLAR version 1.0](https://github.com/Driolar/SoccerTheory-Java/releases/tag/V1.0) is freezed.
+It is written in Java and is partially [ported to Pharo](https://github.com/Driolar/SoccerTheory-Pharo) for further development, while this repository's [Java code of DRIOLAR version 1.0](https://github.com/Driolar/SoccerTheory-Java/releases/tag/V1.0) is freezed.
 See the original [master thesis documentation](https://github.com/user-attachments/files/19585270/MAS-06-02.12-00-doc.pdf)
  for details about concept, design and implementation.
 
