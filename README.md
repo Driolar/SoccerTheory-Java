@@ -9,7 +9,7 @@ See the original [master thesis documentation](https://github.com/user-attachmen
 ## Usage
 There is a stand-alone version of DRIOLAR available for Windows. 
 It requires at least 1024 MB memory and 50 MB disc capacity. 
-[The Java Runtime Environment version 1.6 or higher](https://www.java.com/en/download/windows_manual.jsp) must be pre installed.
+[The Java Runtime Environment version 1.6 or higher](https://www.java.com/en/download/windows_manual.jsp) must be pre-installed.
 
 1. Download the [compressed standalone files](https://github.com/user-attachments/files/19585231/standalone.zip).
 2. Extract the files.
